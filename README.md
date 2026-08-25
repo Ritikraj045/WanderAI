@@ -1,5 +1,6 @@
 # 🌍 WanderAI – AI-Powered Travel Planning Web App
-AI-Powered Travel Planner – Generate stunning, personalized day-by-day itineraries with Google Gemini AI. Built with React.js, Tailwind CSS, Firebase, and smooth animations for an inspiring trip-planning experience.
+
+WanderAI is a modern AI-powered travel planning application that creates **personalized, day-by-day itineraries** based on your preferences, budget, and destination. Powered by **Google Gemini AI**, it delivers **engaging, realistic, and location-specific** travel plans with beautiful UI animations.
 
 ---
 
